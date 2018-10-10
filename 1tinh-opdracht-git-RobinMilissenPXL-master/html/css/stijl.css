@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+}
+
+header {
+    display: block;
+    background-color: #becad0;
+    padding: 10px;
+}
+
+nav {
+    background-color: #7f8496;
+    border-bottom: 5px solid orange;
+    padding: 10px;
+    text-align: left;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 15px
+}
+
+footer {
+    background-color: #7f8496;
+    border-top: 5px solid orange;
+    padding: 10px;
+}
